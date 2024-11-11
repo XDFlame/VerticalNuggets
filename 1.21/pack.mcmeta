@@ -1,0 +1,10 @@
+{
+    "pack": {
+        "pack_format": 34,
+		"supported_formats": [
+			34,
+			42
+		],
+        "description": "Makes many nuggets vertical to enforce consistency."
+    }
+}
