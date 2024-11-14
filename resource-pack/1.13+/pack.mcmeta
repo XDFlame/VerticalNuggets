@@ -1,0 +1,21 @@
+{
+    "pack": {
+        "pack_format": 15,
+		"supported_formats": [
+			4,
+			5,
+			6,
+			7,
+			8,
+			9,
+			12,
+			13,
+			15,
+			18,
+			22,
+			32,
+			42
+		],
+        "description": "Makes many nuggets vertical to enforce consistency."
+    }
+}
