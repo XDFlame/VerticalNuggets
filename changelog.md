@@ -3,6 +3,15 @@ Changelog for all versions.
 This will be more up-to-date than the CurseForge and Modrinth changelogs.
 --------------------------------------------------
 
+# v1.0.2.2
+
+Added support for [BetterEnd Forge Backport](https://www.curseforge.com/minecraft/mc-mods/betterendforge-backport)<br />
+Removed support for mods that aren't on this version.
+
+<br /> <br />
+
+--------------------------------------------------
+
 # v1.0.2.1
 
 Another re-release
