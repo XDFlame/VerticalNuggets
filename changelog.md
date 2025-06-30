@@ -3,6 +3,13 @@ Changelog for all versions.
 This will be more up-to-date than the CurseForge and Modrinth changelogs.
 --------------------------------------------------
 
+# v1.1.2
+
+Backported v1.1 to 1.18
+
+<br /> <br />
+
+--------------------------------------------------
 # v1.1.1
 
 Backported v1.1 to 1.19
