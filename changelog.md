@@ -3,6 +3,19 @@ Changelog for all versions.
 This will be more up-to-date than the CurseForge and Modrinth changelogs.
 --------------------------------------------------
 
+# v1.1
+
+Added support for Tinker's Steel Nugget<br />
+Mod support added:
+
+- Aquaculture 2
+- Basic Nether Ores
+- Janoeo Foundations
+
+
+<br /> <br />
+
+--------------------------------------------------
 # v1.0.3
 
 Ported to 1.21.5 and 1.21.6

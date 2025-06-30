@@ -4,9 +4,10 @@ Suggest mod support on the [issue tracker](https://github.com/XDFlame/VerticalNu
 
 <br />
 
-Mod Support
------------
+# Mod Support
 
+* [Aquaculture 2](https://modrinth.com/mod/aquaculture)
+* [Basic Nether Ores](https://modrinth.com/mod/basic-nether-ores)
 * [BetterEnd](https://modrinth.com/mod/betterend)
 * [BetterEnd Forge Backport](https://www.curseforge.com/minecraft/mc-mods/betterendforge-backport)
 * [BetterEnd Forge Port](https://www.curseforge.com/minecraft/mc-mods/betterend-forge-port)
@@ -16,5 +17,6 @@ Mod Support
 * [Coal Nugget](https://modrinth.com/mod/coal-nugget)
 * [Enigmatic Legacy](https://modrinth.com/mod/enigmatic-legacy)
 * [Extended Crafting](https://modrinth.com/mod/extended-crafting)
+* [Janoeo Foundation](https://modrinth.com/mod/janoeo)
 * [Thermal Integration](https://modrinth.com/mod/thermal-integration)
 * [Tinkers' Construct](https://modrinth.com/mod/tinkers-construct)

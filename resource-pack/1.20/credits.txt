@@ -1,0 +1,2 @@
+XDFlame - making the original pack, with support from 1.11 to 1.20
+vizthex - porting and maintaining the pack past v1.0
