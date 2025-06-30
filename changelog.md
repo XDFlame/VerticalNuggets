@@ -51,7 +51,6 @@ Backported v1.1 to 1.19
 <br /> <br />
 
 --------------------------------------------------
-
 # v1.1
 
 Added a credits file<br />
@@ -61,6 +60,15 @@ Mod support added:
 - Aquaculture 2
 - Basic Nether Ores
 - Janoeo Foundation
+
+
+<br /> <br />
+
+--------------------------------------------------
+# v1.0.3.1
+
+Backported v1.1 to 1.11 and 1.12
+- Since most of the supported mods already have vertical nuggets, all this does is add the credits file and update the description
 
 
 <br /> <br />
