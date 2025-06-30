@@ -3,15 +3,29 @@ Changelog for all versions.
 This will be more up-to-date than the CurseForge and Modrinth changelogs.
 --------------------------------------------------
 
+# v1.0.3
+
+Ported to 1.21.5 and 1.21.6
+
+Removed support for mods that aren't on this version<br />
+Imported mod support from the 1.20 version:
+
+- Aquaculture 2
+- Basic Nether Ores
+
+
+<br /> <br />
+
+--------------------------------------------------
 # v1.0.2.2
 
 Added support for [BetterEnd Forge Backport](https://www.curseforge.com/minecraft/mc-mods/betterendforge-backport)<br />
 Removed support for mods that aren't on this version.
 
+
 <br /> <br />
 
 --------------------------------------------------
-
 # v1.0.2.1
 
 Another re-release
@@ -23,10 +37,10 @@ Another re-release
 
 Ported to 1.21.4
 
+
 <br /> <br />
 
 --------------------------------------------------
-
 # v1.0.2
 
 Initial re-release
@@ -44,10 +58,10 @@ Mod support added:
 - [BetterEnd Reforked](https://www.curseforge.com/minecraft/mc-mods/betterend-re-forked)
 - [Coal Nugget](https://www.curseforge.com/minecraft/mc-mods/coal-nugget)
 
+
 <br /> <br />
 
 --------------------------------------------------
-
 # v1.0
 
 Initial release.

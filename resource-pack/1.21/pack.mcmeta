@@ -3,8 +3,10 @@
         "pack_format": 34,
 		"supported_formats": [
 			42,
-			46
+			46,
+			55,
+			63
 		],
-        "description": "Makes many nuggets vertical to enforce consistency."
+        "description": "Makes nuggets vertical to enforce consistency."
     }
 }
