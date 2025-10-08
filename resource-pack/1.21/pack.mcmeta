@@ -5,7 +5,9 @@
 			42,
 			46,
 			55,
-			63
+			63,
+			64,
+			69.0
 		],
         "description": "Makes nuggets vertical to enforce consistency."
     }

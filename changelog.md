@@ -1,6 +1,7 @@
 Changelog for all versions.
 
 This will be more up-to-date than the CurseForge and Modrinth changelogs.
+
 --------------------------------------------------
 
 # v1.1.6
@@ -65,16 +66,14 @@ Mod support added:
 <br /> <br />
 
 --------------------------------------------------
-# v1.0.3.1
+# v1.0.3.2
 
-Backported v1.1 to 1.11 and 1.12
-- Since most of the supported mods already have vertical nuggets, all this does is add the credits file and update the description
-
+"Ported" to 1.21.7 - 1.21.10. (i fucking hate this new versioning system mojang has AUUGGHH)
 
 <br /> <br />
 
 --------------------------------------------------
-# v1.0.3
+# v1.0.3.1
 
 Ported to 1.21.5 and 1.21.6
 
@@ -83,6 +82,15 @@ Removed support for mods that aren't on this version
 Ported mod support from the 1.20 version:
 - Aquaculture 2
 - Basic Nether Ores
+
+
+<br /> <br />
+
+--------------------------------------------------
+# v1.0.3
+
+Backported v1.1 to 1.11 and 1.12
+- Since most of the supported mods already have vertical nuggets, all this really does is add the credits file and update the in-game description
 
 
 <br /> <br />
@@ -97,7 +105,7 @@ Removed support for mods that aren't on this version.
 <br /> <br />
 
 --------------------------------------------------
-# v1.0.2.1
+# v1.0.2.1 - v1.0.2.8
 
 Another re-release
 - Pack now has a separate download for each Minecraft version
