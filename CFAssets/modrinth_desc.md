@@ -17,6 +17,7 @@ Suggest mod support on the [issue tracker](https://github.com/XDFlame/VerticalNu
 * [Coal Nugget](https://modrinth.com/mod/coal-nugget)
 * [Enigmatic Legacy](https://modrinth.com/mod/enigmatic-legacy)
 * [Extended Crafting](https://modrinth.com/mod/extended-crafting)
+* [Galosphere](https://www.modrinth.com/mod/galosphere)
 * [Janoeo Foundation](https://modrinth.com/mod/janoeo)
 * [Thermal Integration](https://modrinth.com/mod/thermal-integration)
 * [Tinkers' Construct](https://modrinth.com/mod/tinkers-construct)

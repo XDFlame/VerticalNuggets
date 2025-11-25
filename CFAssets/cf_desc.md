@@ -17,6 +17,7 @@ Suggest mod support in the comments, on the [issue tracker](https://github.com/X
 * [Coal Nugget](https://www.curseforge.com/minecraft/mc-mods/coal-nugget)
 * [Enigmatic Legacy](https://www.curseforge.com/minecraft/mc-mods/enigmatic-legacy)
 * [Extended Crafting](https://www.curseforge.com/minecraft/mc-mods/extended-crafting)
+* [Galosphere](https://www.curseforge.com/minecraft/mc-mods/galosphere)
 * [Janoeo Foundation](https://www.curseforge.com/minecraft/mc-mods/janoeo)
 * [Thermal Integration](https://www.curseforge.com/minecraft/mc-mods/thermal-integration)
 * [Tinkers' Construct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct)

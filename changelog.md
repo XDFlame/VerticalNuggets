@@ -4,6 +4,14 @@ This will be more up-to-date than the CurseForge and Modrinth changelogs.
 
 --------------------------------------------------
 
+# v1.2
+
+Added support for Galosphere's Silver Nugget
+
+
+<br /> <br />
+
+--------------------------------------------------
 # v1.1.6
 
 Backported v1.1 to 1.13 and 1.14
@@ -55,7 +63,7 @@ Backported v1.1 to 1.19
 # v1.1
 
 Added a credits file<br />
-Added support for Tinker's Steel Nugget<br />
+Added support for Tinkers' Steel Nugget
 
 Mod support added:
 - Aquaculture 2
@@ -70,6 +78,7 @@ Mod support added:
 
 "Ported" to 1.21.7 - 1.21.10. (i fucking hate this new versioning system mojang has AUUGGHH)
 
+
 <br /> <br />
 
 --------------------------------------------------
@@ -79,7 +88,7 @@ Ported to 1.21.5 and 1.21.6
 
 Removed support for mods that aren't on this version
 
-Ported mod support from the 1.20 version:
+Ported some mod support from the 1.20 version:
 - Aquaculture 2
 - Basic Nether Ores
 
