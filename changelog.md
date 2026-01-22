@@ -37,6 +37,15 @@ Mod support added:
 
 --------------------------------------------------
 
+## 3.0
+
+[New versioning system](https://github.com/XDFlame/VerticalNuggets/blob/main/changelog.md#10)
+
+
+<br /> <br />
+
+--------------------------------------------------
+
 ## 2.0
 
 [New versioning system](https://github.com/XDFlame/VerticalNuggets/blob/main/changelog.md#10)
