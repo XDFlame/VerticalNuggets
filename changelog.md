@@ -37,6 +37,16 @@ Mod support added:
 
 --------------------------------------------------
 
+## 4.0
+
+Removed Create Deco support since the Cast Iron Nugget isn't in this version<br />
+[New versioning system](https://github.com/XDFlame/VerticalNuggets/blob/main/changelog.md#10)
+
+
+<br /> <br />
+
+--------------------------------------------------
+
 ## 3.0
 
 [New versioning system](https://github.com/XDFlame/VerticalNuggets/blob/main/changelog.md#10)
@@ -48,6 +58,7 @@ Mod support added:
 
 ## 2.0
 
+Removed Enigmatic Legacy support since the Etherium Nugget isn't in this version<br />
 [New versioning system](https://github.com/XDFlame/VerticalNuggets/blob/main/changelog.md#10)
 
 
