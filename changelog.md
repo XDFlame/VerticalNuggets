@@ -31,3 +31,16 @@ Mod support added:
 - Extreme Reactors
 - More Useful Copper
 - The Undergarden
+
+
+<br /> <br />
+
+--------------------------------------------------
+
+## 1.0
+
+Fixed an annoying persistent issue where the pack wouldn't load in
+
+Updated the credits file in every version<br />
+Start of the new versioning system
+- Now follows modded standards, with each minecraft version being a new major version (e.g. 1.11 is now v1.X, 1.13 is now v2.X, etc.)
