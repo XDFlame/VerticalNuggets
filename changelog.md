@@ -4,7 +4,22 @@ This will be more up-to-date than the CurseForge and Modrinth changelogs.
 
 --------------------------------------------------
 
-# v1.2
+## 1.3
+
+Updated Tinkers' Construct support with the Knightmetal Nugget
+
+Mod support added:
+- Better Copper / Armor and Tools
+- Extreme Reactors
+- More Useful Copper
+- The Undergarden
+
+
+<br /> <br />
+
+--------------------------------------------------
+
+## 1.2
 
 Added support for Galosphere's Silver Nugget
 
@@ -12,7 +27,8 @@ Added support for Galosphere's Silver Nugget
 <br /> <br />
 
 --------------------------------------------------
-# v1.1.6
+
+## 1.1.6
 
 Backported v1.1 to 1.13 and 1.14
 
@@ -20,7 +36,8 @@ Backported v1.1 to 1.13 and 1.14
 <br /> <br />
 
 --------------------------------------------------
-# v1.1.5
+
+## 1.1.5
 
 Backported v1.1 to 1.15
 
@@ -28,7 +45,8 @@ Backported v1.1 to 1.15
 <br /> <br />
 
 --------------------------------------------------
-# v1.1.4
+
+## 1.1.4
 
 Backported v1.1 to 1.16
 
@@ -36,7 +54,8 @@ Backported v1.1 to 1.16
 <br /> <br />
 
 --------------------------------------------------
-# v1.1.3
+
+## 1.1.3
 
 Backported v1.1 to 1.17<br />
 Removed support for a couple mods that aren't on this version
@@ -45,7 +64,8 @@ Removed support for a couple mods that aren't on this version
 <br /> <br />
 
 --------------------------------------------------
-# v1.1.2
+
+## 1.1.2
 
 Backported v1.1 to 1.18
 
@@ -53,14 +73,16 @@ Backported v1.1 to 1.18
 <br /> <br />
 
 --------------------------------------------------
-# v1.1.1
+
+## 1.1.1
 
 Backported v1.1 to 1.19
 
 <br /> <br />
 
 --------------------------------------------------
-# v1.1
+
+## 1.1
 
 Added a credits file<br />
 Added support for Tinkers' Steel Nugget
@@ -74,15 +96,17 @@ Mod support added:
 <br /> <br />
 
 --------------------------------------------------
-# v1.0.3.2
 
-"Ported" to 1.21.7 - 1.21.10. (i fucking hate this new versioning system mojang has AUUGGHH)
+## 1.0.3.2
+
+"Ported" to 1.21.7 - 1.21.10 (i fucking hate this new versioning system mojang has AUUGGHH).
 
 
 <br /> <br />
 
 --------------------------------------------------
-# v1.0.3.1
+
+## 1.0.3.1
 
 Ported to 1.21.5 and 1.21.6
 
@@ -96,7 +120,8 @@ Ported some mod support from the 1.20 version:
 <br /> <br />
 
 --------------------------------------------------
-# v1.0.3
+
+## 1.0.3
 
 Backported v1.1 to 1.11 and 1.12
 - Since most of the supported mods already have vertical nuggets, all this really does is add the credits file and update the in-game description
@@ -105,7 +130,8 @@ Backported v1.1 to 1.11 and 1.12
 <br /> <br />
 
 --------------------------------------------------
-# v1.0.2.2
+
+## 1.0.2.2
 
 Added support for [BetterEnd Forge Backport](https://www.curseforge.com/minecraft/mc-mods/betterendforge-backport)<br />
 Removed support for mods that aren't on this version.
@@ -114,7 +140,8 @@ Removed support for mods that aren't on this version.
 <br /> <br />
 
 --------------------------------------------------
-# v1.0.2.1 - v1.0.2.8
+
+## 1.0.2.1 - 1.0.2.8
 
 Another re-release
 - Pack now has a separate download for each Minecraft version
@@ -129,7 +156,8 @@ Ported to 1.21.4
 <br /> <br />
 
 --------------------------------------------------
-# v1.0.2
+
+## 1.0.2
 
 Initial re-release
 - Pack has been condensed into 2 downloads (one for 1.11/12, and one for every other version)
@@ -150,7 +178,8 @@ Mod support added:
 <br /> <br />
 
 --------------------------------------------------
-# v1.0
+
+## 1.0
 
 Initial release.
 
