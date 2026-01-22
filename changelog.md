@@ -37,6 +37,15 @@ Mod support added:
 
 --------------------------------------------------
 
+## 2.0
+
+[New versioning system](https://github.com/XDFlame/VerticalNuggets/blob/main/changelog.md#10)
+
+
+<br /> <br />
+
+--------------------------------------------------
+
 ## 1.0
 
 Fixed an annoying persistent issue where the pack wouldn't load in
