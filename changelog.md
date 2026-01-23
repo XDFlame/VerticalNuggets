@@ -37,7 +37,7 @@ Mod support added:
 
 --------------------------------------------------
 
-## 5.0
+## 5.0 - 6.0
 
 Added support for Better Copper / Armor and Tools and The Undergarden<br />
 [New versioning system](https://github.com/XDFlame/VerticalNuggets/blob/main/changelog.md#10)
