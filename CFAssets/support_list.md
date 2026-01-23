@@ -16,6 +16,7 @@
 * [Galosphere](https://www.curseforge.com/minecraft/mc-mods/galosphere)
 * [Janoeo Foundation](https://www.curseforge.com/minecraft/mc-mods/janoeo)
 * [More Useful Copper](https://www.curseforge.com/minecraft/mc-mods/more-useful-copper-2-0)
+* [Netherrocks](https://www.curseforge.com/minecraft/mc-mods/netherrocks)
 * [Thermal Integration](https://www.curseforge.com/minecraft/mc-mods/thermal-integration)
 * [Tinkers' Construct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct)
 * [The Undergarden](https://www.curseforge.com/minecraft/mc-mods/the-undergarden)

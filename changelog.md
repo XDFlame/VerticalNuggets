@@ -59,6 +59,15 @@ Added support for Better Copper / Armor and Tools and The Undergarden<br />
 
 --------------------------------------------------
 
+## 4.1
+
+Added support for Netherrocks and Extreme Reactors (i'm so damn mad i missed it the first time ffs)
+
+
+<br /> <br />
+
+--------------------------------------------------
+
 ## 4.0
 
 Removed Create Deco support since the Cast Iron Nugget isn't in this version<br />
