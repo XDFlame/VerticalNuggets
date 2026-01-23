@@ -37,6 +37,15 @@ Mod support added:
 
 --------------------------------------------------
 
+## 7.1
+
+Added support for Netherrocks and Extreme Reactors (i'm so damn mad i missed it the first time ffs)
+
+
+<br /> <br />
+
+--------------------------------------------------
+
 ## 7.0
 
 Fixed the Etherium Nugget texture not being changed<br />
