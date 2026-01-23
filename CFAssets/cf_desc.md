@@ -6,18 +6,4 @@ Suggest mod support in the comments, on the [issue tracker](https://github.com/X
 
 # Mod Support
 
-* [Aquaculture 2](https://www.curseforge.com/minecraft/mc-mods/aquaculture)
-* [Basic Nether Ores](https://www.curseforge.com/minecraft/mc-mods/basic-nether-ores)
-* [BetterEnd](https://www.curseforge.com/minecraft/mc-mods/betterend)
-* [BetterEnd Forge Backport](https://www.curseforge.com/minecraft/mc-mods/betterendforge-backport)
-* [BetterEnd Forge Port](https://www.curseforge.com/minecraft/mc-mods/betterend-forge-port)
-* [BetterEnd Forge Port Revival](https://www.curseforge.com/minecraft/mc-mods/betterend-forge-revival)
-* [BetterEnd Reforked](https://www.curseforge.com/minecraft/mc-mods/betterend-re-forked)
-* [Create Deco](https://www.curseforge.com/minecraft/mc-mods/create-deco)
-* [Coal Nugget](https://www.curseforge.com/minecraft/mc-mods/coal-nugget)
-* [Enigmatic Legacy](https://www.curseforge.com/minecraft/mc-mods/enigmatic-legacy)
-* [Extended Crafting](https://www.curseforge.com/minecraft/mc-mods/extended-crafting)
-* [Galosphere](https://www.curseforge.com/minecraft/mc-mods/galosphere)
-* [Janoeo Foundation](https://www.curseforge.com/minecraft/mc-mods/janoeo)
-* [Thermal Integration](https://www.curseforge.com/minecraft/mc-mods/thermal-integration)
-* [Tinkers' Construct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct)
+Full list can be found [here](https://github.com/XDFlame/VerticalNuggets/blob/main/CFAssets/support_list.md).
