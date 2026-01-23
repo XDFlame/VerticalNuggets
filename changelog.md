@@ -49,6 +49,15 @@ Added support for Better Copper / Armor and Tools and The Undergarden
 
 --------------------------------------------------
 
+## 5.1
+
+Added support for Netherrocks and Extreme Reactors (i'm so damn mad i missed it the first time ffs)
+
+
+<br /> <br />
+
+--------------------------------------------------
+
 ## 5.0 - 6.0
 
 Added support for Better Copper / Armor and Tools and The Undergarden<br />
