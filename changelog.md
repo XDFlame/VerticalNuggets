@@ -22,6 +22,20 @@ Mod support added:
 
 --------------------------------------------------
 
+## 8.1
+
+Removed support for BetterEnd's various Forge ports since they aren't on this version
+- The [only one](https://www.curseforge.com/minecraft/mc-mods/betterend-forge) I could find uses the `betterend` namespace, so the existing support for it will work.
+
+Mod support added:
+- Extreme Reactors
+- Netherrocks
+
+
+<br /> <br />
+
+--------------------------------------------------
+
 ## 8.0
 
 Updated Tinkers' Construct support with the Knightmetal Nugget
