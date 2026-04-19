@@ -4,6 +4,15 @@ This will be more up-to-date than the CurseForge and Modrinth changelogs.
 
 --------------------------------------------------
 
+## 10.0
+
+"Ported" to 26.X
+
+
+<br /> <br />
+
+--------------------------------------------------
+
 ## 9.0
 
 Overhauled the versioning system again
@@ -25,7 +34,7 @@ Mod support added:
 ## 8.1
 
 Removed support for BetterEnd's various Forge ports since they aren't on this version
-- The [only one](https://www.curseforge.com/minecraft/mc-mods/betterend-forge) I could find uses the `betterend` namespace, so the existing support for it will work.
+- The [only one I could find ](https://www.curseforge.com/minecraft/mc-mods/betterend-forge) uses the `betterend` namespace, so the existing support for it will work.
 
 Mod support added:
 - Extreme Reactors

@@ -1,0 +1,8 @@
+{
+    "pack": {
+        "pack_format": 84.0,
+		"supported_formats": [
+		],
+        "description": "Makes nuggets vertical to enforce consistency."
+    }
+}
