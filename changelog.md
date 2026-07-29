@@ -4,9 +4,18 @@ This will be more up-to-date than the CurseForge and Modrinth changelogs.
 
 --------------------------------------------------
 
+## 10.0.1
+
+"Ported" to 26.2
+
+
+<br /> <br />
+
+--------------------------------------------------
+
 ## 10.0
 
-"Ported" to 26.X
+"Ported" to 26.1.X
 
 
 <br /> <br />
