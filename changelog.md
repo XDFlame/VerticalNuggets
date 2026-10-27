@@ -4,6 +4,16 @@ This will be more up-to-date than the CurseForge and Modrinth changelogs.
 
 --------------------------------------------------
 
+## 10.0.2
+
+"Ported" to 26.3<br />
+Updated `pack.mcmeta` to utilise the new `min` and `max format` options.
+
+
+<br /> <br />
+
+--------------------------------------------------
+
 ## 10.0.1
 
 "Ported" to 26.2
